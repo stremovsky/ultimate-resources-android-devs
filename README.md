@@ -1,16 +1,16 @@
 # Compiled & Curated List of Resources for Android Developers
 
-**I am trying to compile and curate a collection of resources which can be pretty handy for Android Developers. Something like an aggregator for all the relevant and vital pieces of information for our fraternity.** 
+**I am trying to compile and curate a collection of resources which can be pretty handy for Android Developers. Something like an aggregator for all the relevant and vital pieces of information for our fraternity.**
 
-_Note : This is an on-going list and I will keep updating it ! Feel free to comment or [submit a PR](https://github.com/wahibhaq/ultimate-resources-android-devs/pulls) for changes or additions._ 
-<br><br> 
+_Note : This is an on-going list and I will keep updating it ! Feel free to comment or [submit a PR](https://github.com/wahibhaq/ultimate-resources-android-devs/pulls) for changes or additions._
+<br><br>
 
-#### Learning what it takes to become one 
+#### Learning what it takes to become one
 
 * Official [resources](http://developer.android.com/index.html) from Google to get you started with designing and developing for Android.
 
 * [Guide](http://blog.udacity.com/2015/05/become-android-developer.html) about bare bones version of becoming an Android Dev.
- 
+
 * [Code Path](http://guides.codepath.com/android) is the central crowdsourced resource for complete and up-to-date practical Android developer guides for any topic.
 
 * This [post](https://www.simform.com/blog/top-resources-to-learn-android?utm_source=Android+Weekly&utm_campaign=15ee59bb7a-Android_Weekly_181&utm_medium=email&utm_term=0_4eb677ad19-15ee59bb7a-337877153) will help you build your app from scratch and guide you through ideation to publishing on Play Store.
@@ -19,44 +19,44 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 
 * ##### Training Videos
-    
+
   * Training Videos on [Caster.io](https://caster.io) will teach you everything you need to know in order to thrive and survive as an Android Developer.
-  
+
 * ##### Ebooks
 
   * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
   * [Android Programming: The Big Nerd Ranch Guide](http://www.amazon.com/gp/product/0134171454?sa-no-redirect=1&pldnSite=1)
   * [Android Activity Book](https://gumroad.com/l/androidactivitybook) & [Android Theory Book](https://gumroad.com/l/androidtheorybook) can teach you the basics of Android development so you can start creating high quality applications quickly with high quality.
-    
+
 <br>
 
 #### Best practices shared by others to help you
-  
+
  * ##### General Lessons  
- 
+
    * [Best practices in Android development](https://github.com/futurice/android-best-practices) is a collection of lessons learned from Android developers in Futurice.
    * This is the [app](https://github.com/artem-zinnatullin/qualitymatters) that follows all principles of [Android Development Culture Document](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/).
    * Some of the best practises shared by experts as blog posts : [June Edition](https://medium.com/@stepango/android-development-some-of-the-best-practices-jun-2016-edition-e505a0558a71#.56uur8lew)
-  
+
  * ##### Architecture
-  
+
     * [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) from Google.
- 
+
  * ##### Pro Dev Tips
- 
+
     * [Dev Tips from Sebs](https://medium.com/sebs-top-tips)
     * [Internet of terms](https://www.youtube.com/playlist?list=PLsICxg8PM_ctYzI_aYbs7eX4asunmnMqm)
- 
+
  * ##### Necessary Evaluation Criterias
- 
+
     * [Android Audit](http://karumi.github.io/AndroidAudit/) : You Android app as a crime scene!!!
- 
+
  * ##### Valuable Insights shared by Popular Apps
- 
-    * [Instagram - 4 years later](https://engineering.instagram.com/instagram-android-four-years-later-927c166b0201#.lx44n5yry) : Tyler Kieft shared how Instagram radically improved their Android App in 4 years. 
- 
+
+    * [Instagram - 4 years later](https://engineering.instagram.com/instagram-android-four-years-later-927c166b0201#.lx44n5yry) : Tyler Kieft shared how Instagram radically improved their Android App in 4 years.
+
  * ##### Interesting Panel Dicussions
- 
+
     * [The Journey of Android Engineers: Panel Discussion and Q&A](https://www.youtube.com/watch?v=Ab8H-HfhSmM) : This panel discussion was part of a "Square Presents" event from February 18th, 2016.
 
 <br>
@@ -84,22 +84,22 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 #### Podcasts
 
 * [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast)
- 
+
 #### Design and UX
 
 - ##### Material Design
-    
-    * [Material Design Glossary](https://medium.com/tradecraft-traction/speak-intellegently-about-your-app-anatomy-material-design-glossary-c6769de0eb63#.3oqazmkft) : Speak Intelligently About Your App Anatomy (Material Design Glossary). 
+
+    * [Material Design Glossary](https://medium.com/tradecraft-traction/speak-intellegently-about-your-app-anatomy-material-design-glossary-c6769de0eb63#.3oqazmkft) : Speak Intelligently About Your App Anatomy (Material Design Glossary).
     * [Material Design everywhere using the Android Support Libs](https://realm.io/news/kau-michael-wolfson-material-design-everywhere/) : Mike Wolfson highlights some important components of these libraries and demonstrates how to use them effectively.
-    
+
     - ###### Navigation Drawer
-    
+
       * A series of [articles](https://medium.com/android-news/navigation-drawer-styling-according-material-design-5306190da08f#.h7gxpgkd4) digging on the Material Design Navigation Drawer and a [github project](https://github.com/Sottti/MaterialDesignNavDrawer) to see the code how it's done.
       * [Playing With NavigationView](http://www.technotalkative.com/part-4-playing-with-navigationview/)
       * [Fragment Navigation Drawer](https://guides.codepath.com/android/Fragment-Navigation-Drawer)
 
 - ##### Android Design Library
- 
+
     * [CheeseSquare](https://github.com/chrisbanes/cheesesquare) : Demos the new Android Design library.
 
 <br>
@@ -112,7 +112,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * Discover top Android libraries based on their popularity in high-ranking apps on [Libtastic](http://www.libtastic.com).
 
-* Open Source libraries from [Square](http://square.github.io/#android) (We just can't thank them enough !) 
+* Open Source libraries from [Square](http://square.github.io/#android) (We just can't thank them enough !)
 
 * A curated [list 1](https://github.com/wasabeef/awesome-android-ui) & [list 2](https://github.com/snowdream/awesome-android) of awesome Android UI/UX libraries.
 
@@ -120,12 +120,13 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [RxFit](https://github.com/patloew/RxFit)
 
 * ##### Lifecycle Handling
-  * [RxLifecycle](https://github.com/trello/RxLifecycle) 
+  * [RxLifecycle](https://github.com/trello/RxLifecycle)
 
 * ##### Logging
   * [Hugo](https://github.com/JakeWharton/hugo)
   * [Lynx](https://github.com/pedrovgs/Lynx) : see LogCat output right in the app, useful for QAs and developers
   * [DebugOverlay](https://github.com/sockeqwe/debugoverlay) : A tiny window overlay to log app internal on top of your android app.
+  * [Timber](https://github.com/JakeWharton/hugo) : A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 
 * ##### Debugging
   * [LeakCanary](https://github.com/square/leakcanary) : detect memory leaks without IDE! Must have for QAs and developers.
@@ -138,7 +139,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) : Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
 
 * ##### Data Access Layer
-  * [GreenDAO](https://github.com/greenrobot/greenDAO) : Light & fast ORM solution for Android that maps objects to SQLite databases. 
+  * [GreenDAO](https://github.com/greenrobot/greenDAO) : Light & fast ORM solution for Android that maps objects to SQLite databases.
 
 * ##### Code Generation / Reducing Boilerplate code
   * [AutoValue](https://github.com/google/auto/tree/master/value) : Value types in Java are hard. Well, not hard, but tedious. Google’s AutoValue library makes them much easier. This [article](http://ryanharter.com/blog/2016/03/22/autovalue/) provides nice overview.
@@ -150,14 +151,14 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Icepick](https://github.com/frankiesardo/icepick) : Android library that eliminates the boilerplate of saving and restoring instance state. It uses annotation processing to generate code that does bundle manipulation and key generation, so that you don't have to write it yourself.
   * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) : A simple, annotation-based library for making deep link handling better on Android.
   * [SqlDelight](https://github.com/square/sqldelight) : Generates Java models from CREATE TABLE statements.
-  
+
 
 * ##### Images Loading & Caching
   * [Glide](https://github.com/bumptech/glide) : An image loading and caching library for Android focused on smooth scrolling.
   * [Picasso](https://github.com/square/picasso) : A powerful image downloading and caching library for Android.
 
 * ##### Image Processing
-  * [AndroidPhotoFilters](https://github.com/Zomato/AndroidPhotoFilters) : AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media. 
+  * [AndroidPhotoFilters](https://github.com/Zomato/AndroidPhotoFilters) : AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media.
   * [uCrop](https://github.com/Yalantis/uCrop) : This project aims to provide an ultimate and flexible image cropping experience.
 
 * ##### JSON Parsing and Serialization
@@ -176,7 +177,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Hellochart](https://github.com/lecho/hellocharts-android) : Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations.
 
 * ##### Permissions
-  * [Dexter](https://github.com/Karumi/Dexter) : Android library that simplifies the process of requesting permissions at runtime. 
+  * [Dexter](https://github.com/Karumi/Dexter) : Android library that simplifies the process of requesting permissions at runtime.
 
 * ##### Device Info
   * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) : Android library to get device information in a super easy way.  
@@ -185,21 +186,21 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [HintCase](https://github.com/Nescafemix/hintcase) : HintCase is a library for Android that will help you create really awesome hints/tips for your apps.
 
 * ##### Custom Views and Animations
-  * [Depth-Lib](https://github.com/danielzeller/Depth-LIB-Android-) : A library that gives depth to Views. 
+  * [Depth-Lib](https://github.com/danielzeller/Depth-LIB-Android-) : A library that gives depth to Views.
   * [Elegant-Underline](https://github.com/romainguy/elegant-underline) : Exploring possible implementations for better underline text decoration on Android. There's a detailed [article](https://medium.com/@romainguy/a-better-underline-for-android-90ba3a2e4fb#.qq0rpmgmb) on this as well.
   * [Focus Resize](https://github.com/borjabravo10/FocusResize) : A custom animation with scroll listener to recycler views.
   * [DiscreteSlider](https://github.com/lawloretienne/DiscreteSlider) : A slider that allows a user to select a value at one of the specified tickmarks.
 
 * ##### Database
-  * [greenDAO](http://greenrobot.org/greendao/) : Android ORM for your SQLite database. 
+  * [greenDAO](http://greenrobot.org/greendao/) : Android ORM for your SQLite database.
 
 * ##### Simplifying Communication between building blocks
   * [EventBus](https://github.com/greenrobot/EventBus) : Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. There's a nice [comparison](https://github.com/greenrobot/EventBus/blob/master/COMPARISON.md) between Otto and EventBus.
   * [Otto](http://square.github.io/otto/) : An enhanced event bus with emphasis on Android support.
   * [RxAndroid](https://github.com/ReactiveX/RxAndroid) : [RxJava](https://github.com/ReactiveX/RxJava) bindings for Android.
- 
+
 * ##### Fonts
-  * [Calligraphy](https://github.com/chrisjenx/Calligraphy) : Custom fonts in Android the easy way. 
+  * [Calligraphy](https://github.com/chrisjenx/Calligraphy) : Custom fonts in Android the easy way.
 
 * ##### Communication
   * [Slyc Messaging](https://github.com/Slyce-Inc/SlyceMessaging) : A messaging library for Android.
@@ -215,7 +216,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
   * [Stetho](a powerful new debugging platform for Android) : A powerful new debugging platform for Android developed by Facebook. It can help in Inspecting Network Connections, Querying SQLite Databases or Manipulating Your App’s Preferences.
   * [CharlesProxy](https://www.charlesproxy.com) : Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
- 
+
 - ##### Static Code Analysis
 
   * [Infer](http://fbinfer.com) : Facebook Infer is a static analysis tool - if you give Infer some Objective-C, Java, or C     code, it produces a list of potential bugs.
@@ -259,7 +260,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 #### Rx
 
  * [RxJava for Android](https://github.com/wahibhaq/ultimate-resources-android-devs/blob/master/RxJava-for-Android.md) : Personally curated list of learning resources for this RxJava stuff and how it applies to Android.
-  
+
 
 <br>
 
@@ -277,19 +278,19 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 <br>
 
-#### Open Source 
+#### Open Source
 
   - ##### Bootstrap
     * [Android Bootstrap](http://www.androidbootstrap.com)
-  
+
   - ##### Frameworks
-    * [Rosie](https://github.com/Karumi/Rosie) : Android framework to create applications following the principles of [Clean Architecture](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html). 
+    * [Rosie](https://github.com/Karumi/Rosie) : Android framework to create applications following the principles of [Clean Architecture](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html).
     * [Conductor](https://github.com/bluelinelabs/Conductor) : A small, yet full-featured framework that allows building View-based Android applications.
-  
+
   - ##### Other Awesome Apps out there
     * [Book Dash App](https://github.com/spongebobrf/BookdashAndroidApp)
     * [CleanFit] (https://github.com/Zireck/CleanFit) : A Material Design Nutrition App implementing Clean Architecture.
-  
+
   - ##### Other Programming languages for Android
     * [Kotlin](https://kotlinlang.org) : Kotlin is a Statically typed programming language for the JVM & Android. It's 100% interoperable with Java.
 
@@ -299,16 +300,16 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 #### Other Collections
 
   - ##### Resources Lists
-  
+
     * [Awesome Android](https://github.com/JStumpp/awesome-android)
     * [Android Architecture](https://github.com/ziem/android-architecture-resources)
 
   - ##### Community
 
     * [Android Community](https://github.com/tonilopezmr/android-community)
-    
+
   - ##### Security
-  
+
     * [Android Security Awesome](https://github.com/ashishb/android-security-awesome)
 
 
