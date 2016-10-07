@@ -192,6 +192,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [DiscreteSlider](https://github.com/lawloretienne/DiscreteSlider) : A slider that allows a user to select a value at one of the specified tickmarks.
 
 * ##### Database
+  * [Comparison popular ORM libraries](https://github.com/Rexee/AndroidDatabaseLibraryComparison) : A test between a few of the popular libraries running a speed test on how fast they load and save data.
   * [greenDAO](http://greenrobot.org/greendao/) : Android ORM for your SQLite database.
 
 * ##### Simplifying Communication between building blocks
