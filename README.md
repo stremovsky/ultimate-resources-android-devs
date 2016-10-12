@@ -127,6 +127,8 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Lynx](https://github.com/pedrovgs/Lynx) : see LogCat output right in the app, useful for QAs and developers
   * [DebugOverlay](https://github.com/sockeqwe/debugoverlay) : A tiny window overlay to log app internal on top of your android app.
   * [Timber](https://github.com/JakeWharton/hugo) : A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+  * [Frodo](https://github.com/android10/frodo) : Android Library for Logging RxJava Observables and Subscribers.
+  * [Hugo](https://github.com/JakeWharton/hugo) : Annotation-triggered method call logging for your debug builds.
 
 * ##### Debugging
   * [LeakCanary](https://github.com/square/leakcanary) : detect memory leaks without IDE! Must have for QAs and developers.
