@@ -54,6 +54,7 @@
 * [Wiebe Elsinga](https://twitter.com/welsinga) (Android GDE, Technical Lead Engineer @ Egeniq)
 * [Xavier Hallade](https://twitter.com/ph0b) (Android GDE, Application Engineer @ Intel)
 * [Tim Messerschmidt](https://twitter.com/SeraAndroid) (Developer Relations @ Google) 
+* [Florina Muntenescu](https://twitter.com/fmuntenescu) (Android Software Developer @ Upday GmbH) 
 
 > “Learning from others is primary to your success, even doctors seek advice from specialists.” 
 ― Unarine Ramaru
