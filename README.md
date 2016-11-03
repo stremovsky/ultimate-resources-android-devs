@@ -58,6 +58,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
  * ##### Interesting Panel Dicussions
 
     * [The Journey of Android Engineers: Panel Discussion and Q&A](https://www.youtube.com/watch?v=Ab8H-HfhSmM) : This panel discussion was part of a "Square Presents" event from February 18th, 2016.
+    
+ * ##### Supporting Different Languages and Locales
+    
+    * [Developing for the Rest of the World] (https://speakerdeck.com/ericfrohnhoefer/developing-for-the-rest-of-the-world) : This talk provide tips for developing apps intended for an international audience.
 
 <br>
 
