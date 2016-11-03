@@ -216,7 +216,6 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
   * [ACRA](https://github.com/ACRA/acra) : ACRA is a library enabling Android Application to automatically post their crash reports to a GoogleDoc form. [Acralyzer](https://github.com/ACRA/acralyzer) is the backend which needs to be hosted to display Acra Reports.
 
-
 #### Third-party tools  
 
 - ##### Debugging
@@ -235,6 +234,12 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 - ##### 3rd Party Libs
 
   * For keeping a check on latest version of 3rd party libs added in Gradle, you can use [Gradle,please](http://gradleplease.appspot.com) in order to avoid checking individually on the official pages. Another way is to use [gradle-version-plugin](https://github.com/ben-manes/gradle-versions-plugin) which is a Gradle plugin to discover dependency updates.
+  
+- ##### Firebase.io
+
+ - ###### Open Source Projects
+ 
+   * [Climb-Tracker](https://github.com/google/climb-tracker) : Climbing tracker app for Android and Android Wear, using Firebase. 
 
 
 
