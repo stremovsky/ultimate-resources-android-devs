@@ -9,6 +9,7 @@
   * [Intro to Rx book](http://introtorx.com/Content/v1.0.10621.0/00_Foreword.html) 
   
  - #### Understanding the basics
+  * [Reactive Programming explained to a 5 year old](https://edgecoders.com/how-to-explain-reactive-programming-to-a-5-year-old-e802c5385aee#.5qrj9fea0)
   * [What is Reactive Programming](https://medium.com/reactive-programming/what-is-reactive-programming-bc9fa7f4a7fc#.ss9jjqsii)
   * [Building a Reactive Mindset](https://upday.github.io/blog/reactive_mindset_burgers/) : Very creative way of explaining reactive programming.
   * [A Journey into Reactive Streams](https://medium.com/@kvnwbbr/a-journey-into-reactive-streams-5ee2a9cd7e29#.9muefrxnd)
