@@ -14,6 +14,7 @@
   * [Building a Reactive Mindset](https://upday.github.io/blog/reactive_mindset_burgers/) : Very creative way of explaining reactive programming.
   * [A Journey into Reactive Streams](https://medium.com/@kvnwbbr/a-journey-into-reactive-streams-5ee2a9cd7e29#.9muefrxnd)
   * [Notes on Reactive Programming - Part 1](https://spring.io/blog/2016/06/07/notes-on-reactive-programming-part-i-the-reactive-landscape) & [Part2](https://spring.io/blog/2016/06/13/notes-on-reactive-programming-part-ii-writing-some-code)
+  * [Understanding the enigma of RxJava](https://hackernoon.com/understanding-the-enigma-of-rxjava-part-1-8e04a456d9de#.icfo33s03)
  
  - #### Resources for quick help
 
