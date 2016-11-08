@@ -315,6 +315,8 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
     * [Awesome Android](https://github.com/JStumpp/awesome-android)
     * [Android Architecture](https://github.com/ziem/android-architecture-resources)
+    * [RxAndroidLibs](https://github.com/zsoltk/RxAndroidLibs) : A curated list of libraries to aid reactive development on Android.
+
 
   - ##### Community
 
