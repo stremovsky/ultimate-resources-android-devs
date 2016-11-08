@@ -23,6 +23,7 @@
   
 - #### 3rd Party Libs
 
+  * [A curated list of libraries to aid reactive development on Android](https://github.com/zsoltk/RxAndroidLibs)
   * [RxRelay](https://github.com/JakeWharton/RxRelay) : RxJava types that are both an Observable and an Action1.
   
 - #### Initiatives
