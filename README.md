@@ -102,9 +102,17 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
       * [Playing With NavigationView](http://www.technotalkative.com/part-4-playing-with-navigationview/)
       * [Fragment Navigation Drawer](https://guides.codepath.com/android/Fragment-Navigation-Drawer)
 
-- ##### Android Design Library
+- ##### Android Design 
 
-    * [CheeseSquare](https://github.com/chrisbanes/cheesesquare) : Demos the new Android Design library.
+    - ###### Design Library
+        * [CheeseSquare](https://github.com/chrisbanes/cheesesquare) : Demos the new Android Design library.
+        
+    - ###### Constraint Layout
+        * ConstraintLayout, Inside and Out [Part 1](http://wiresareobsolete.com/2016/07/constraintlayout-part-1/) and [Part 2](http://wiresareobsolete.com/2016/07/constraintlayout-part-2/)
+        
+    - ###### Themes and Styles
+        * [Themes and Styles demystified - Google I/O Talk](https://www.youtube.com/watch?v=TIHXGwRTMWI) 
+    
 
 <br>
 
@@ -119,6 +127,11 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * Open Source libraries from [Square](http://square.github.io/#android) (We just can't thank them enough !)
 
 * A curated [list 1](https://github.com/wasabeef/awesome-android-ui) & [list 2](https://github.com/snowdream/awesome-android) of awesome Android UI/UX libraries.
+
+* Stuff about Writing and Publishing Libraries
+
+  * [Jitback.io](https://jitpack.io) : Easy to use package repository to publish your JVM and Android libraries on Git.
+
 
 * ##### Fitness
   * [RxFit](https://github.com/patloew/RxFit)
@@ -241,7 +254,15 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
  
    * [Climb-Tracker](https://github.com/google/climb-tracker) : Climbing tracker app for Android and Android Wear, using Firebase. 
 
+#### Android Internals
 
+- ##### Compiler
+
+  * [Jack and Jill](http://tools.android.com/tech-docs/jackandjill) : New Android toolchain that comprises a compiler from Java programming language source to the Android dex file format. Very nice [post](http://trickyandroid.com/the-dark-world-of-jack-and-jill/) explaining it.
+  
+- ##### Java 8
+
+  * Talk by Jack Wharton on [Exploring Java's Hidden Costs](https://realm.io/news/360andev-jake-wharton-java-hidden-costs-android/)
 
 #### Third-party useful plugins/projects
 
@@ -305,7 +326,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
   - ##### Other Programming languages for Android
     * [Kotlin](https://kotlinlang.org) : Kotlin is a Statically typed programming language for the JVM & Android. It's 100% interoperable with Java.
-
+    
 
 <br>
 
