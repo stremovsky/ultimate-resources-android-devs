@@ -23,3 +23,8 @@
 - #### 3rd Party Libs
 
   * [RxRelay](https://github.com/JakeWharton/RxRelay) : RxJava types that are both an Observable and an Action1.
+  
+- #### Initiatives
+
+  * [Reactive Streams](http://www.reactive-streams.org) : Reactive Streams is an initiative to provide a standard for asynchronous stream processing with non-blocking back pressure.
+  * [Reactive Manifesto](http://www.reactivemanifesto.org)
