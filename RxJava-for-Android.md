@@ -28,3 +28,7 @@
 
   * [Reactive Streams](http://www.reactive-streams.org) : Reactive Streams is an initiative to provide a standard for asynchronous stream processing with non-blocking back pressure.
   * [Reactive Manifesto](http://www.reactivemanifesto.org)
+  
+- #### Open-source sample projects
+
+  * [Reactive Burgers](https://github.com/florina-muntenescu/ReactiveBurgers) : Code example for [The ABCs of RxJava](http://www.slideshare.net/FlorinaMuntenescu/the-abcs-of-rxjava-64925005)
