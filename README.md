@@ -253,6 +253,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
  - ###### Open Source Projects
  
    * [Climb-Tracker](https://github.com/google/climb-tracker) : Climbing tracker app for Android and Android Wear, using Firebase. 
+   
+- ##### Giving App Demos
+
+ * [Vysor](https://www.vysor.io) : It offers a nice [Chrome Extension](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm?authuser=1) which allows you to easily view and control your Android on your computer. You can use it to show demo with screen sharing.
 
 #### Android Internals
 
