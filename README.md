@@ -113,6 +113,9 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
     - ###### Themes and Styles
         * [Themes and Styles demystified - Google I/O Talk](https://www.youtube.com/watch?v=TIHXGwRTMWI) 
     
+    - ###### Tools and Apps to Help
+        * [Keylines](https://github.com/ragunathjawahar/keylines) : Painlessly build and ship apps that conform to the Material design specifications.
+    
 
 <br>
 
@@ -257,6 +260,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 - ##### Giving App Demos
 
  * [Vysor](https://www.vysor.io) : It offers a nice [Chrome Extension](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm?authuser=1) which allows you to easily view and control your Android on your computer. You can use it to show demo with screen sharing.
+ 
+- Apk Optimizers
+
+ * [Redex](https://github.com/facebook/redex) : Android bytecode (dex) optimizer originally developed at Facebook. An APK optimized by ReDex should be smaller and faster than its source.
 
 #### Android Internals
 
