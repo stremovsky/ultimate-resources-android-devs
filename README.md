@@ -62,6 +62,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
  * ##### Supporting Different Languages and Locales
     
     * [Developing for the Rest of the World] (https://speakerdeck.com/ericfrohnhoefer/developing-for-the-rest-of-the-world) : This talk provide tips for developing apps intended for an international audience.
+    
+ * ##### Android Studio
+ 
+    * [50 Tips, Tricks & Resources you should be familiar with](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.bm80u3bgd) : This article list down helpful tips, tricks, shortcuts and resources for Android Studio that will improve your overall efficiency and performance. 
 
 <br>
 
@@ -292,6 +296,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * [Code Style for Contributors](http://source.android.com/source/code-style.html)
 * [Google Java Style](http://google.github.io/styleguide/javaguide.html)
 * [Android Project Guidelines](https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md) from [Buffer](https://buffer.com)
+* [Java Code Styles from Square](https://github.com/square/java-code-styles) : IntelliJ IDEA code style settings for Square's Java and Android projects.
 
 #### Experts & Devs to follow  
 
