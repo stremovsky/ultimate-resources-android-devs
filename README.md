@@ -216,6 +216,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Elegant-Underline](https://github.com/romainguy/elegant-underline) : Exploring possible implementations for better underline text decoration on Android. There's a detailed [article](https://medium.com/@romainguy/a-better-underline-for-android-90ba3a2e4fb#.qq0rpmgmb) on this as well.
   * [Focus Resize](https://github.com/borjabravo10/FocusResize) : A custom animation with scroll listener to recycler views.
   * [DiscreteSlider](https://github.com/lawloretienne/DiscreteSlider) : A slider that allows a user to select a value at one of the specified tickmarks.
+  * [Page Indicator View](https://github.com/romandanylyk/PageIndicatorView) : An page indicator for Android ViewPager.
 
 * ##### Database
   * [Comparison popular ORM libraries](https://github.com/Rexee/AndroidDatabaseLibraryComparison) : A test between a few of the popular libraries running a speed test on how fast they load and save data.
