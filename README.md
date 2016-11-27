@@ -254,6 +254,8 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 - ##### 3rd Party Libs
 
   * For keeping a check on latest version of 3rd party libs added in Gradle, you can use [Gradle,please](http://gradleplease.appspot.com) in order to avoid checking individually on the official pages. Another way is to use [gradle-version-plugin](https://github.com/ben-manes/gradle-versions-plugin) which is a Gradle plugin to discover dependency updates.
+  * [Android Library Finder](https://github.com/cesarferreira/alfi) : Search through thousands of android libraries that can help you scale your projects elegantly.
+
   
 - ##### Firebase.io
 
