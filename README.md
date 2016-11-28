@@ -46,6 +46,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
     * [Dev Tips from Sebs](https://medium.com/sebs-top-tips)
     * [Internet of terms](https://www.youtube.com/playlist?list=PLsICxg8PM_ctYzI_aYbs7eX4asunmnMqm)
+    * [30 things that experience made me learn the hard way](https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.oawutveuh) : Some of the things learned along the way that [Cesar](https://twitter.com/cesarmcferreira) wants to share with you.
 
  * ##### Necessary Evaluation Criterias
 
