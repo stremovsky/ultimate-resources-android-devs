@@ -243,6 +243,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
   * [Stetho](a powerful new debugging platform for Android) : A powerful new debugging platform for Android developed by Facebook. It can help in Inspecting Network Connections, Querying SQLite Databases or Manipulating Your App’s Preferences.
   * [CharlesProxy](https://www.charlesproxy.com) : Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
+  * [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) : Android Debug Database allows you to view databases and shared preferences directly in your browser in a very simple way.
 
 - ##### Static Code Analysis
 
