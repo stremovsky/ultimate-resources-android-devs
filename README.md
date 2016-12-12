@@ -67,6 +67,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
  * ##### Android Studio
  
     * [50 Tips, Tricks & Resources you should be familiar with](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.bm80u3bgd) : This article list down helpful tips, tricks, shortcuts and resources for Android Studio that will improve your overall efficiency and performance. 
+    * Android Studio Tips of the day is a series shared by Philippe Breault (GDE). [Roundup #1](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/), [Roundup #2](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/) and [Roundup #3](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3/) (It's more about debugging!).  
 
 <br>
 
