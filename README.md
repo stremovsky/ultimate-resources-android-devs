@@ -191,6 +191,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * ##### JSON Parsing and Serialization
   * [LoganSquare](https://github.com/bluelinelabs/LoganSquare) : Screaming fast JSON parsing and serialization library for Android.
+  * [Moshi](https://github.com/square/moshi) : Moshi is a modern JSON library for Android and Java from @square. It makes it easy to parse JSON into Java objects.
 
 * ##### Reactive Programming  
   * [Agera](https://github.com/google/agera) : Agera is a set of classes and interfaces to help write functional, asynchronous, and reactive applications for Android.
