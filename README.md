@@ -240,6 +240,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
   * [ACRA](https://github.com/ACRA/acra) : ACRA is a library enabling Android Application to automatically post their crash reports to a GoogleDoc form. [Acralyzer](https://github.com/ACRA/acralyzer) is the backend which needs to be hosted to display Acra Reports.
 
+* ##### UI Tests
+  * [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/index.html) : Use Espresso to write concise, beautiful, and reliable Android UI tests. It's part of the [Android Testing Support Lib](https://google.github.io/android-testing-support-library/).
+ 
+
 #### Third-party tools  
 
 - ##### Debugging
