@@ -276,7 +276,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
  * [Vysor](https://www.vysor.io) : It offers a nice [Chrome Extension](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm?authuser=1) which allows you to easily view and control your Android on your computer. You can use it to show demo with screen sharing.
  
-- Apk Optimizers
+- ##### Apk Optimizers
 
  * [Redex](https://github.com/facebook/redex) : Android bytecode (dex) optimizer originally developed at Facebook. An APK optimized by ReDex should be smaller and faster than its source.
 
@@ -286,9 +286,19 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
   * [Jack and Jill](http://tools.android.com/tech-docs/jackandjill) : New Android toolchain that comprises a compiler from Java programming language source to the Android dex file format. Very nice [post](http://trickyandroid.com/the-dark-world-of-jack-and-jill/) explaining it.
   
+  * [From Code to Dex](https://medium.com/upday-devs/from-code-to-dex-a-compilation-story-e1d62f63ad6a#.423ujz7ph) :  It tells you about the journey that your app’s code goes through, on its way to becoming part of dex files.
+
+  
 - ##### Java 8
 
   * Talk by Jack Wharton on [Exploring Java's Hidden Costs](https://realm.io/news/360andev-jake-wharton-java-hidden-costs-android/)
+  
+#### Continuous Integration
+
+- ##### Setup
+
+  * [How to set up a Continuous Integration server for Android development ](https://medium.com/@pamartineza/how-to-set-up-a-continuous-integration-server-for-android-development-ubuntu-jenkins-sonarqube-43c1ed6b08d3#.eflm04igy) :  It summarizes the installation steps for any developer that may be interested in setting up its own CI server involving Ubuntu + Jenkins + SonarQube.
+ 
 
 #### Third-party useful plugins/projects
 
