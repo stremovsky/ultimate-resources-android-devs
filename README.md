@@ -336,6 +336,8 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * [Droidcon Berlin June-2016](http://droidcon.de) : [Recap #1](http://jeroenmols.com/blog/2016/06/18/droidconde/) by [Jeroen](https://twitter.com/molsjeroen).
 
+* [Droidcon London October-2016](http://uk.droidcon.com/) : [Recap #1](https://medium.com/@bruno.aybar/my-journey-to-droidcon-d1e0e78467dd#.afjnqmo5q) by [Bruno Aybar](https://twitter.com/brunoaybarg)
+
 <br>
 
 #### Open Source
