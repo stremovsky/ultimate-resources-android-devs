@@ -220,7 +220,8 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Focus Resize](https://github.com/borjabravo10/FocusResize) : A custom animation with scroll listener to recycler views.
   * [DiscreteSlider](https://github.com/lawloretienne/DiscreteSlider) : A slider that allows a user to select a value at one of the specified tickmarks.
   * [Page Indicator View](https://github.com/romandanylyk/PageIndicatorView) : An page indicator for Android ViewPager.
-  * [Epoxy](https://github.com/airbnb/epoxy) : Epoxy is an Android library for building complex screens in a RecyclerView
+  * [Epoxy](https://github.com/airbnb/epoxy) : Epoxy is an Android library for building complex screens in a RecyclerView.
+  * [Groupie](https://github.com/Genius/groupie) : Groupie helps you display and manage complex RecyclerView layouts.
 
 * ##### Database
   * [Comparison popular ORM libraries](https://github.com/Rexee/AndroidDatabaseLibraryComparison) : A test between a few of the popular libraries running a speed test on how fast they load and save data.
