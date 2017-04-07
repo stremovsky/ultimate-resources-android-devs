@@ -244,6 +244,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * ##### UI Tests
   * [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/index.html) : Use Espresso to write concise, beautiful, and reliable Android UI tests. It's part of the [Android Testing Support Lib](https://google.github.io/android-testing-support-library/).
+  
+* ##### Dependency Injection
+  * [Dagger2](https://github.com/google/dagger) : A fast dependency injector for Android and Java. 
+  * [Toothpick](https://github.com/stephanenicolas/toothpick) : A scope tree based Dependency Injection (DI) library for Java.  
  
 
 #### Third-party tools  
