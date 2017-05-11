@@ -95,6 +95,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
+#### Collection of Android Talks
+
+* [Droidtalks](http://www.droidtalks.pro/) is a very nice collection of talks about Android Development organized by Topics, Events and Creators.
+
 #### Design and UX
 
 - ##### Material Design
