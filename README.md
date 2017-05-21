@@ -41,6 +41,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
  * ##### Architecture
 
     * [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) from Google.
+    * [Getting Clean, Keeping Lean](https://speakerdeck.com/hitherejoe/getting-clean-keeping-lean?utm_content=buffer4c648&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) from [Joe Birch](https://twitter.com/hitherejoe) of Buffer.  
 
  * ##### Pro Dev Tips
 
