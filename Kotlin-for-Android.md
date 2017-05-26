@@ -1,5 +1,9 @@
 ### Kotlin
 
+ - #### Curated Lists
+
+   * [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)
+
  - #### Why Kotlin?
  
    * [Why Kotlin is my next programming language](https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3#.lppturyxt)
