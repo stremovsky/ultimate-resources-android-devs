@@ -266,6 +266,8 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 - ##### Static Code Analysis
 
   * [Infer](http://fbinfer.com) : Facebook Infer is a static analysis tool - if you give Infer some Objective-C, Java, or C     code, it produces a list of potential bugs.
+  * [Gnag](http://gnag.watch/) : A Gradle plugin that helps facilitate GitHub PR checking and automatic commenting of violations.
+
 
 - ##### Avoiding the dreaded 65K limit
 
