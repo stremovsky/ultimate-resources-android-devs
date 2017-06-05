@@ -33,6 +33,10 @@
    * [eraser-map](https://github.com/mapzen/eraser-map) : Privacy-focused mapping application for Android.
    * [OpenConference](https://github.com/OpenConference/OpenConference-android)
    * [BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight)
+   
+ - #### Podcasts
+ 
+   * [Talking Kotlin](http://talkingkotlin.com/) : A bimonthly podcast that covers the Kotlin programming language by JetBrains, as well as related technologies. Hosted by Hadi Hariri.
 
  - #### Cheat Sheets
 
