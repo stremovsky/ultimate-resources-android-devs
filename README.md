@@ -249,6 +249,8 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * ##### UI Tests
   * [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/index.html) : Use Espresso to write concise, beautiful, and reliable Android UI tests. It's part of the [Android Testing Support Lib](https://google.github.io/android-testing-support-library/).
+  * [OkReplay](https://github.com/airbnb/okreplay) : Automatically record and replay OkHttp network interaction through your Android application.
+  * [Betamax](https://github.com/betamaxteam/betamax) : Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests. 
   
 * ##### Dependency Injection
   * [Dagger2](https://github.com/google/dagger) : A fast dependency injector for Android and Java. 
