@@ -270,10 +270,13 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Infer](http://fbinfer.com) : Facebook Infer is a static analysis tool - if you give Infer some Objective-C, Java, or C     code, it produces a list of potential bugs.
   * [Gnag](http://gnag.watch/) : A Gradle plugin that helps facilitate GitHub PR checking and automatic commenting of violations.
 
-
 - ##### Avoiding the dreaded 65K limit
 
   * [Methods Count](http://www.methodscount.com) : Android libraries are great, but they come at a cost. Use this tool to avoid the dreaded 65K method limit of the DEX file format!
+  
+- ##### Design and UI/UX
+ 
+  * [Shape Shifter](https://shapeshifter.design/) : For those who want to integrate *AnimatedVectorDrawables* in the apps. This tool makes it quite easy to create property animations for each individual layer and organize them via a timeline. Alex explained the features [here](https://plus.google.com/+AlexLockwood/posts/AtDRT4QxFs2?utm_source=Android+Weekly&utm_campaign=db675e4c05-android-weekly-263&utm_medium=email&utm_term=0_4eb677ad19-db675e4c05-337913985).
 
 - ##### 3rd Party Libs
 
