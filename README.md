@@ -280,7 +280,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   
 - ##### Localization Services
 
-  * [Crowdin](https://crowdin.com/) : Translate and manage the process better, faster, and smarter.
+  * [Crowdin](https://crowdin.com/page/android-localization) : Translate and manage the process better, faster, and smarter. Crowdin is the tool that will make localization a part of your development quickly and with less effort.
 
 - ##### 3rd Party Libs
 
