@@ -277,6 +277,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 - ##### Design and UI/UX
  
   * [Shape Shifter](https://shapeshifter.design/) : For those who want to integrate *AnimatedVectorDrawables* in the apps. This tool makes it quite easy to create property animations for each individual layer and organize them via a timeline. Alex explained the features [here](https://plus.google.com/+AlexLockwood/posts/AtDRT4QxFs2?utm_source=Android+Weekly&utm_campaign=db675e4c05-android-weekly-263&utm_medium=email&utm_term=0_4eb677ad19-db675e4c05-337913985).
+  
+- ##### Localization Services
+
+  * [Crowdin](https://crowdin.com/) : Translate and manage the process better, faster, and smarter.
 
 - ##### 3rd Party Libs
 
