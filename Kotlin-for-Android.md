@@ -13,7 +13,8 @@
    * [Advancing Android Development with Kotlin](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/) : Tech Talk by Jake Wharton.
    * [Using Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit?hl=en&forcehl=1) : A comprehensive documentation prepared by Jake Wharton.
    * [Kotlin Koans](http://try.kotlinlang.org/#/Kotlin%20Koans/Introduction/Hello,%20world!/Task.kt) : Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-   * [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/) : Comparison of how basic programming concepts are done in Java and Kotlin. 
+   * [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/) : Comparison of how basic programming concepts are done in Java and Kotlin.
+   * [Kotlin - A deeper look](https://hackernoon.com/kotlin-a-deeper-look-8569d4da36f)
  
  - #### Kotlin for Android
  
@@ -23,6 +24,10 @@
  
    * [Building a Kotlin Project](http://cirorizzo.net/2016/03/04/building-a-kotlin-project/?utm_source=Android+Weekly&utm_campaign=36def426b1-Android_Weekly_195&utm_medium=email&utm_term=0_4eb677ad19-36def426b1-337877153) : These series of posts are focused on building a proper Android project using Kotlin.
    * [Introduction to Kotlin: Android Programming For Humans](https://www.toptal.com/software/kotlin-android-language?utm_content=buffer46c5c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
+   
+ - #### Advance stuff
+ 
+   * Exploring Kotlins Hidden Costs: [Part 1](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-1-fbb9935d9b62) and [Part 2](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-2-324a4a50b70)
  
  - #### Lessons from Converting App to Kotlin
  
