@@ -16,6 +16,7 @@
    * [Notes on Reactive Programming - Part 1](https://spring.io/blog/2016/06/07/notes-on-reactive-programming-part-i-the-reactive-landscape) & [Part2](https://spring.io/blog/2016/06/13/notes-on-reactive-programming-part-ii-writing-some-code)
    * [Understanding the enigma of RxJava](https://hackernoon.com/understanding-the-enigma-of-rxjava-part-1-8e04a456d9de#.icfo33s03)
    * [Introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) : Author wrote this practical tutorial keeping focus on how to think in Reactive, so that devs can get started. 
+   * [ABCs of RxJava](https://www.slideshare.net/FlorinaMuntenescu/the-abcs-of-rxjava-64925005) : The aim of this talk is first of all to create the reactive programming mindset; to explain what an Observable and a Subscriber are; and to give a bit of insight in the magic of thread handling in RxJava. 
   
   
  - #### Practising and becoming a Pro
