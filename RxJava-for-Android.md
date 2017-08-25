@@ -18,10 +18,14 @@
    * [Introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) : Author wrote this practical tutorial keeping focus on how to think in Reactive, so that devs can get started. 
    * [ABCs of RxJava](https://www.slideshare.net/FlorinaMuntenescu/the-abcs-of-rxjava-64925005) : The aim of this talk is first of all to create the reactive programming mindset; to explain what an Observable and a Subscriber are; and to give a bit of insight in the magic of thread handling in RxJava. 
   
-  
  - #### Practising and becoming a Pro
   
    * [Learning RxJava for Android by example](https://github.com/kaushikgopal/RxJava-Android-Samples) 
+   
+ - #### Switching from RxJava1 to RxJava2
+
+   * A kind of basic [cheat sheet](https://github.com/petrnohejl/Java/blob/master/rxjava2.md).
+   * [RxJava2 Android Examples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) : Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
  
  - #### Resources for quick help
 
@@ -43,4 +47,5 @@
    * [Reactive Burgers](https://github.com/florina-muntenescu/ReactiveBurgers) : Code example for [The ABCs of RxJava](http://www.slideshare.net/FlorinaMuntenescu/the-abcs-of-rxjava-64925005)
   
 - #### Other Lists
- * [Awesome RxJava](http://awesomeawesome.party/awesome-rxjava) 
+ 
+   * [Awesome RxJava](http://awesomeawesome.party/awesome-rxjava) 
