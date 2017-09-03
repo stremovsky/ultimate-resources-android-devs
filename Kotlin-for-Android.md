@@ -15,6 +15,7 @@
    * [Kotlin Koans](http://try.kotlinlang.org/#/Kotlin%20Koans/Introduction/Hello,%20world!/Task.kt) : Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
    * [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/) : Comparison of how basic programming concepts are done in Java and Kotlin.
    * [Kotlin - A deeper look](https://hackernoon.com/kotlin-a-deeper-look-8569d4da36f)
+   * [Idiomatic Kotlin. Best Practices.](https://blog.philipphauer.de/idiomatic-kotlin-best-practices/)
  
  - #### Kotlin for Android
  
