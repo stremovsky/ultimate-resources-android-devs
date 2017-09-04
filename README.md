@@ -315,6 +315,10 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
   * Talk by Jack Wharton on [Exploring Java's Hidden Costs](https://realm.io/news/360andev-jake-wharton-java-hidden-costs-android/)
   
+- ##### ProGuard
+
+  * [An introduction to how ProGuard works](https://speakerdeck.com/scompt/proguard)
+  
 #### Continuous Integration
 
 - ##### Setup
