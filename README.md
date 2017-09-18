@@ -125,7 +125,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
         * [Themes and Styles demystified - Google I/O Talk](https://www.youtube.com/watch?v=TIHXGwRTMWI) 
     
     - ###### Tools and Apps to Help
-        * [Keylines](https://github.com/ragunathjawahar/keylines) : Painlessly build and ship apps that conform to the Material design specifications.
+        * [Keylines](https://github.com/ragunathjawahar/keylines) : Painlessly build and ship apps that conform to the Material design specifications.    
     
 
 <br>
@@ -227,6 +227,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Page Indicator View](https://github.com/romandanylyk/PageIndicatorView) : An page indicator for Android ViewPager.
   * [Epoxy](https://github.com/airbnb/epoxy) : Epoxy is an Android library for building complex screens in a RecyclerView.
   * [Groupie](https://github.com/Genius/groupie) : Groupie helps you display and manage complex RecyclerView layouts.
+  * [Lottie](https://github.com/airbnb/lottie-android) : Kib from Airbnb to render After Effects animations natively on Android and iOS. Here's a [blog post](https://www.prolificinteractive.com/2017/09/05/design-guide-winning-developers-hearts-part-1-use-lottie/) explaining how to use it. 
 
 * ##### Database
   * [Comparison popular ORM libraries](https://github.com/Rexee/AndroidDatabaseLibraryComparison) : A test between a few of the popular libraries running a speed test on how fast they load and save data.
