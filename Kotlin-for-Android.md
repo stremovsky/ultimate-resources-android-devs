@@ -15,6 +15,7 @@
    * [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/) : Comparison of how basic programming concepts are done in Java and Kotlin.
    * [Kotlin - A deeper look](https://hackernoon.com/kotlin-a-deeper-look-8569d4da36f)
    * [Idiomatic Kotlin. Best Practices.](https://blog.philipphauer.de/idiomatic-kotlin-best-practices/)
+   * [Getting Started with Kotlin and Anko](https://academy.realm.io/posts/getting-started-with-kotlin-and-anko/) : A basic guide for beginners to start and kick-off with Kotlin for Android project.
  
  - #### Kotlin for Android
  
