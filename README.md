@@ -189,6 +189,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### Images Loading & Caching
   * [Glide](https://github.com/bumptech/glide) : An image loading and caching library for Android focused on smooth scrolling.
   * [Picasso](https://github.com/square/picasso) : A powerful image downloading and caching library for Android.
+  * [Fresco](http://frescolib.org/) : An Android library from Facebook for managing images and the memory they use. 
 
 * ##### Image Processing
   * [AndroidPhotoFilters](https://github.com/Zomato/AndroidPhotoFilters) : AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media.
