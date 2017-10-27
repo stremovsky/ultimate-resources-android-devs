@@ -173,6 +173,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * ##### Data Access Layer
   * [GreenDAO](https://github.com/greenrobot/greenDAO) : Light & fast ORM solution for Android that maps objects to SQLite databases.
+  * [Apollo-Android](https://github.com/apollographql/apollo-android) : A strongly-typed, caching GraphQL client for Android, written in Java.
 
 * ##### Code Generation / Reducing Boilerplate code
   * [AutoValue](https://github.com/google/auto/tree/master/value) : Value types in Java are hard. Well, not hard, but tedious. Google’s AutoValue library makes them much easier. This [article](http://ryanharter.com/blog/2016/03/22/autovalue/) provides nice overview.
