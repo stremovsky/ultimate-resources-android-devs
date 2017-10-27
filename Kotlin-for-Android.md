@@ -30,6 +30,10 @@
  - #### Advance stuff
  
    * Exploring Kotlins Hidden Costs: [Part 1](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-1-fbb9935d9b62) and [Part 2](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-2-324a4a50b70)
+   
+ - #### Migrating to Kotlin
+ 
+   * [Smooth your migration to Kotlin](https://fernandocejas.com/2017/10/20/smooth-your-migration-to-kotlin/) 
  
  - #### Lessons from Converting App to Kotlin
  
