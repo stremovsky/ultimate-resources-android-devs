@@ -7,6 +7,8 @@
  - #### Why Kotlin?
  
    * [Why Kotlin is my next programming language](https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3#.lppturyxt)
+   * [The career opportunity called Kotlin
+](https://jeroenmols.com/blog/2017/09/13/kotlinopportunity/?utm_source=twitter.com&utm_medium=social&utm_campaign=the-career-opportunity-called-kotlin-htt&utm_content=9879157) 
   
  - #### Learning Kotlin
   
