@@ -36,6 +36,7 @@
  - #### Migrating to Kotlin
  
    * [Smooth your migration to Kotlin](https://fernandocejas.com/2017/10/20/smooth-your-migration-to-kotlin/) 
+   * [Adopting Kotlin by Udacity](https://engineering.udacity.com/adopting-kotlin-c12f10fd85d1) 
  
  - #### Lessons from Converting App to Kotlin
  
