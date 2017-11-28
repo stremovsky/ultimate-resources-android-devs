@@ -350,6 +350,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * [Google Java Style](http://google.github.io/styleguide/javaguide.html)
 * [Android Project Guidelines](https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md) from [Buffer](https://buffer.com)
 * [Java Code Styles from Square](https://github.com/square/java-code-styles) : IntelliJ IDEA code style settings for Square's Java and Android projects.
+* [Android Style](https://github.com/Raizlabs/Raizlabs-Android-Style)
 
 #### Experts & Devs to follow  
 
