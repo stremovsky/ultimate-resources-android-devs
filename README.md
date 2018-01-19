@@ -191,10 +191,18 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Glide](https://github.com/bumptech/glide) : An image loading and caching library for Android focused on smooth scrolling.
   * [Picasso](https://github.com/square/picasso) : A powerful image downloading and caching library for Android.
   * [Fresco](http://frescolib.org/) : An Android library from Facebook for managing images and the memory they use. 
-
+  
 * ##### Image Processing
   * [AndroidPhotoFilters](https://github.com/Zomato/AndroidPhotoFilters) : AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media.
   * [uCrop](https://github.com/Yalantis/uCrop) : This project aims to provide an ultimate and flexible image cropping experience.
+  * [9-Patch-Resizer](https://github.com/redwarp/9-Patch-Resizer) : Automatically resizes and compresses images.
+  * [GIMP](https://www.gimp.org/) : Open source image editing
+  * [Inkscape](https://inkscape.org/en/) : Open source vector image editing.
+  * [Optipng](http://optipng.sourceforge.net/) : Optimize PNG files.
+
+* ##### Video
+  * [Exoplayer](https://github.com/google/ExoPlayer) : ExoPlayer is an application level media player for Android, allow playing audio and video both locally and over the Internet. Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption.
+  * [Easy Video Player](https://github.com/afollestad/easy-video-player) : Easy Video Player is a simple but powerful view that you can plugin to your apps to quickly get video playback working.
 
 * ##### JSON Parsing and Serialization
   * [LoganSquare](https://github.com/bluelinelabs/LoganSquare) : Screaming fast JSON parsing and serialization library for Android.
@@ -247,7 +255,6 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Slyc Messaging](https://github.com/Slyce-Inc/SlyceMessaging) : A messaging library for Android.
 
 * ##### Crash Reports
-
   * [ACRA](https://github.com/ACRA/acra) : ACRA is a library enabling Android Application to automatically post their crash reports to a GoogleDoc form. [Acralyzer](https://github.com/ACRA/acralyzer) is the backend which needs to be hosted to display Acra Reports.
 
 * ##### UI Tests
@@ -256,7 +263,6 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
   * [Betamax](https://github.com/betamaxteam/betamax) : Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests. 
   * [Test-Butler](https://github.com/linkedin/test-butler) : Reliable Android testing, at your service. Provides a reliable solution that would let us rely on our tests to inform us when there was a problem with the app, not the testing environment.
   
-
   
 * ##### Dependency Injection
   * [Dagger2](https://github.com/google/dagger) : A fast dependency injector for Android and Java. 
